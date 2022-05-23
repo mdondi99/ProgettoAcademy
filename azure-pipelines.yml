@@ -1,0 +1,23 @@
+# Azure Pipeline to automate the build and the deplyoment of the App.
+
+variables:
+  build.clean: all
+
+
+resources:
+  repositories:
+  - repository: templates
+    type: git
+    name: BC_Templates/bc.cicd
+
+
+trigger:
+  batch: true
+  branches:
+    include: 
+      - releases/*
+
+
+stages:
+- template: templates/Apps-Build-Full-v2.yml@templates
+# - template: templates/Apps-Build-Fast-v1.yml@templates
