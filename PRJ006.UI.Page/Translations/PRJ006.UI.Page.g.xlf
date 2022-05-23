@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PRJ006.UI.Page">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3555641132 - Method 3069929208 - NamedType 3071485667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The '+' sign is%1present in %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PRJ Validations - Method CheckForPlusSign - NamedType MessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1728905235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Armstrong Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444422625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Types Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Data Types Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expression Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Control Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Control Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2265649098 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Expression Card - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Control 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Control Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Control 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Control Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1598469246 - Control 494089240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJ Statements Card - Control Suggestion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 1306239356 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the interface implementation to Home.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action SendToHome - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 1306239356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send to Home.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action SendToHome - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 1244763986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the interface implementation to Work.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action SendToWork - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 1244763986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send to Work.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action SendToWork - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 2505542762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action WhatsTheAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 324011390 - Action 2505542762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>What's the Address?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PRJMyAddress - Action WhatsTheAddress - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

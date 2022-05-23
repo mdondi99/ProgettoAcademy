@@ -1,0 +1,47 @@
+{
+    "appFolders": "",
+    "testFolders": "",
+
+    "build": {
+        "packageProvider": "upack/BC19",
+        "publishToSharepoint": "false",
+        "siteSharepoint": "https://eossolutionsspa.sharepoint.com/sites/...",
+        "folderSharepoint": "Documenti condivisi/DevOps"
+    },
+
+    "versions": [
+        {
+            "version": "current",
+            "artifact": "bcartifacts/onprem//it/Latest",
+            "imagename": "",
+            "reuseContainer": "true"
+        }
+    ],
+
+    "userProfiles": [
+        {
+            "profile": "Default",
+            "navContainerHelperPath": "",
+            "licenseFilePath": "",
+            "Username": "admin",
+            "Password": "P@ssword1",
+            "AzureVM": {
+                "ComputerName": "",
+                "Username": "",
+                "Password": ""
+            }
+        },
+        {
+            "profile": "Build",
+            "navContainerHelperPath": "",
+            "licenseFilePath": "C:\\DevOps\\Licenses\\EosBcCurrent4DEV.flf",
+            "Username": "admin",
+            "Password": "P@ssword1",
+            "AzureVM": {
+                "ComputerName": "",
+                "Username": "",
+                "Password": ""
+            }
+        }
+    ]
+}

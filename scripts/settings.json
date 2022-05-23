@@ -1,0 +1,13 @@
+{
+    "name":  "BNT",
+    "container":  {
+                      "imageName":  "",
+                      "artifact":  "bcartifacts/onprem//it/Latest",
+                      "name":  "",
+                      "useBestContainerOS":  true,
+                      "licenseFile":  "",
+                      "includeTestToolkit":  false,
+                      "includeTestLibrariesOnly":  false,
+                      "databaseRestoreFile":  ""
+                  }
+}

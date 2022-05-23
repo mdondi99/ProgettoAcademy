@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PRJ010.UI">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 3304944777 - Control 463139664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Nutritional Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control NutritionalInfoGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3304944777 - Control 923701148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Carbohydrates per 100g field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control PRJ Carbohydrates per 100g - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3304944777 - Control 3372152163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Fats per 100g field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control PRJ Fats per 100g - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3304944777 - Control 3588319707 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Proteins per 100g field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control PRJ Proteins per 100g - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3304944777 - Control 441878314 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Brand Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control PRJ Brand Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3304944777 - Control 2144366128 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Brand Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50000 - Control PRJ Brand Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3473182583 - Action 2378057624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Print Nutritional Informations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt500002 - Action PrintNutrInfoAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3942641394 - Action 1530538740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1827454798">
+          <source>Show Campaigns</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50001 - Action ShowCampaignsAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2667248160 - Action 2378057624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Print Nutritional Informations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PRJ PageExt50003 - Action PrintNutrInfoAction - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
