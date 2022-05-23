@@ -17,7 +17,14 @@
     "en-US",
     "it-IT"
   ],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "f1a017ac-cfd7-45b3-8a3f-94748c9df654",
+      "name": "OPT003.DL.EXT.OrdinaryInc",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "19.0.0.0",
   "application": "19.0.0.0",
