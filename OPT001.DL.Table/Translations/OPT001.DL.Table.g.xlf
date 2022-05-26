@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="OPT001.DL.Table">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1724052560 - Field 3142227303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Item Warranties - Field OPT Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1724052560 - Field 2786676892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Item Warranties - Field OPT Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1724052560 - Field 139025371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Item Warranties - Field OPT Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1724052560 - Field 1994932169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Item Warranties - Field OPT Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1724052560 - Field 20533492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Item Warranties - Field OPT Warranty No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 927175897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Warranty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 927175897 - Field 3142227303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Warranty - Field OPT Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 927175897 - Field 2786676892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Warranty - Field OPT Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 927175897 - Field 1976610640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Warranty - Field OPT No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 927175897 - Field 1994932169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPT Warranty - Field OPT Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2682220722 - EnumValue 793269889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cat-Eye</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum OPT Frame Type - EnumValue CatEye - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2682220722 - EnumValue 763463947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum OPT Frame Type - EnumValue Drop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2682220722 - EnumValue 1398930630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Round</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum OPT Frame Type - EnumValue Round - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2682220722 - EnumValue 37953723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Square</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum OPT Frame Type - EnumValue Square - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

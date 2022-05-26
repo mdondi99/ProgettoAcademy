@@ -2,7 +2,7 @@
   "id": "f1a017ac-cfd7-45b3-8a3f-94748c9df654",
   "name": "OPT003.DL.EXT.OrdinaryInc",
   "publisher": "EOS Solutions",
-  "version": "19.0.0.0",
+  "version": "19.0.0.2",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -17,7 +17,14 @@
     "en-US",
     "it-IT"
   ],
-  "dependencies": [ ],
+  "dependencies": [
+    {
+      "id": "cef5043a-7841-4f99-b7eb-2664dd110e12",
+      "name": "OPT001.DL.Table",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.2"
+    }
+   ],
   "screenshots": [],
   "platform": "19.0.0.0",
   "application": "19.0.0.0",

@@ -2,7 +2,7 @@
   "id": "b90eaab9-ab68-49ea-8747-19af3e39c57b",
   "name": "OPT010.UI",
   "publisher": "EOS Solutions",
-  "version": "19.0.0.0",
+  "version": "19.0.0.2",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -17,7 +17,26 @@
     "en-US",
     "it-IT"
   ],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "cef5043a-7841-4f99-b7eb-2664dd110e12",
+      "name": "OPT001.DL.Table",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.2"
+    },
+    {
+      "id": "f1a017ac-cfd7-45b3-8a3f-94748c9df654",
+      "name": "OPT003.DL.EXT.OrdinaryInc",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.2"
+    },
+    {
+      "id": "e22b0ae2-ff5a-429e-81fc-bd4a5e589842",
+      "name": "OPT006.UI.Page",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.2"
+    }
+  ],
   "screenshots": [],
   "platform": "19.0.0.0",
   "application": "19.0.0.0",

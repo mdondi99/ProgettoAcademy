@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2953839251 - Control 139025371 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifica il valore del campo Nr. articolo.</target>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 1994932169 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <target>Specifica il valore del campo Data di inizio.</target>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 20533492 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Warranty No. field.</source>
+          <target>Specifica il valore del campo Nr. garanzia.</target>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 2786676892 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <target>Specifica il valore del campo Data di fine.</target>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 3142227303 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specifica il valore del campo Descrizione.</target>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Item Warranties</source>
+          <target>Garanzie articoli</target>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 1976610640 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <target>Specifica il valore del valore del campo Nr.</target>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 1994932169 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <target>Specifica il valore del campo Data di inizio.</target>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 2786676892 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <target>Specifica il valore del campo Data di fine.</target>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 3142227303 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specifica il valore del campo Descrizione.</target>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranties</source>
+          <target>Garanzie</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Action 1885783214 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranties</source>
+          <target>Garanzie</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 139025371 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifica il valore del campo Nr. articolo.</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 1994932169 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <target>Specifica il valore del campo Data di inizio.</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 20533492 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Warranty No. field.</source>
+          <target>Specifica il valore del campo Nr. garanzia.</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 2786676892 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <target>Specifica il valore del campo Data di fine.</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 3142227303 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target>Specifica il valore del campo Descrizione.</target>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Item Warranties List</source>
+          <target>Lista garanzie articoli</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

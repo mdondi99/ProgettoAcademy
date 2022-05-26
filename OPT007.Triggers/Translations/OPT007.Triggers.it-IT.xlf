@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1529086501 - Change 993414011 - Method 3279464882 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1529086501 - Method 3530100688 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2166783118 - Change 993414011 - Method 3279464882 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2166783118 - Method 3530100688 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3060509926" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fiscal Code field must be filled</source>
+          <target>Il campo Codice Fiscale deve essere compilato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3708776972" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Last Name field must be filled</source>
+          <target>Il campo Cognome deve essere compilato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3723144460" translate="yes" size-unit="char" xml:space="preserve">
+          <source>First Name field must be filled</source>
+          <target>Il campo Nome deve essere compilato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 891389884 - Change 993414011 - Method 3279464882 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 891389884 - Method 3530100688 - NamedType 665253353" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot select a blocked address</source>
+          <target>Impossibile selezionare un indirizzo bloccato</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

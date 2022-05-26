@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="OPT007.Triggers">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3723144460" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3910963946">
+          <source>First Name field must be filled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50002 - Method OnModifyRecord - NamedType FirstNameErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3060509926" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3910963946">
+          <source>Fiscal Code field must be filled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50002 - Method OnModifyRecord - NamedType FiscalCodeErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 3708776972" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3910963946">
+          <source>Last Name field must be filled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50002 - Method OnModifyRecord - NamedType LastNameErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3910963946 - Method 3530100688 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3910963946">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50002 - Method OnModifyRecord - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 891389884 - Method 3530100688 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 891389884">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50004 - Method OnModifyRecord - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 891389884 - Change 993414011 - Method 3279464882 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 891389884">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50004 - Change Ship-to Code - Method OnBeforeValidate - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2166783118 - Method 3530100688 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2166783118">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50006 - Method OnModifyRecord - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2166783118 - Change 993414011 - Method 3279464882 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2166783118">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50006 - Change Ship-to Code - Method OnBeforeValidate - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1529086501 - Method 3530100688 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1529086501">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50007 - Method OnModifyRecord - NamedType ShipSelectErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1529086501 - Change 993414011 - Method 3279464882 - NamedType 665253353" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1529086501">
+          <source>Cannot select a blocked address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50007 - Change Ship-to Code - Method OnBeforeValidate - NamedType ShipSelectErr</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

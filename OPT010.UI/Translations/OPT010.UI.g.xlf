@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="OPT010.UI">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 2635570712 - Method 3388793719 - NamedType 1433008748" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2635570712">
+          <source>Cannot Delete blocked Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50000 - Method OnDeleteRecord - NamedType BlockedDelErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Method 3530100688 - NamedType 667527765" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2635570712">
+          <source>Cannot Modify blocked Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50000 - Method OnModifyRecord - NamedType BlockedModErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Specifies the value of the Blocked field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50000 - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Control 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50000 - Control Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Method 3388793719 - NamedType 1458864712" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1997874095">
+          <source>Cannot delete address if blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50001 - Method OnDeleteRecord - NamedType DeleteErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Action 3458859247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4270809572">
+          <source>Unlock Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50001 - Action OPTUnlockAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Control 3902527861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4270809572">
+          <source>Specifies the value of the Blocked field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50001 - Control OPTBlocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Control 3902527861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4270809572">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50001 - Control OPTBlocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 253693267 - Action 1885783214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Warranties</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50005 - Action Warranties - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 253693267 - Control 3824844055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Item Warranties List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension OPT PageExt50005 - Control OPTFactWarr - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

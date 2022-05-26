@@ -2,7 +2,7 @@
   "id": "8143686e-7eaa-4974-9e34-04cb4b4daf45",
   "name": "OPT007.Triggers",
   "publisher": "EOS Solutions",
-  "version": "19.0.0.0",
+  "version": "19.0.0.2",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -17,7 +17,14 @@
     "en-US",
     "it-IT"
   ],
-  "dependencies": [],
+  "dependencies": [
+    {  
+      "id": "f1a017ac-cfd7-45b3-8a3f-94748c9df654",
+      "name": "OPT003.DL.EXT.OrdinaryInc",
+      "publisher": "EOS Solutions",
+      "version": "19.0.0.2"
+    }
+  ],
   "screenshots": [],
   "platform": "19.0.0.0",
   "application": "19.0.0.0",

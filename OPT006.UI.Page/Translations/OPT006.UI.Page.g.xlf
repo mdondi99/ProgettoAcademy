@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="OPT006.UI.Page">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 690478786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Warranties List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 3142227303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Control OPT Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 2786676892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Control OPT Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 139025371 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Control OPT Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 1994932169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Control OPT Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Control 20533492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warranty No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Control OPT Warranty No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 690478786 - Action 1885783214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranties</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List - Action Warranties - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Warranties</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 3142227303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Control OPT Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 2786676892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Control OPT Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 139025371 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Control OPT Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 1994932169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Control OPT Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2953839251 - Control 20533492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warranty No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Item Warranties List Part - Control OPT Warranty No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranties</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Warranties List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 3142227303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Warranties List - Control OPT Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 2786676892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ending Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Warranties List - Control OPT Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 1976610640 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Warranties List - Control OPT No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3285511965 - Control 1994932169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Starting Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OPT Warranties List - Control OPT Starting Date - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

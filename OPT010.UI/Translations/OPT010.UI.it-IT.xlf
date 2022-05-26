@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1997874095 - Action 3458859247 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Unlock Address</source>
+          <target>Sblocca indirizzo</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Control 3902527861 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Blocked field.</source>
+          <target>Specifica il valore del campo Bloccato.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Control 3902527861 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1997874095 - Method 3388793719 - NamedType 1458864712" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot delete address if blocked</source>
+          <target>Impossibile eliminare l'indirizzo se è bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 253693267 - Action 1885783214 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranties</source>
+          <target>Garanzie</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 253693267 - Control 3824844055 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Item Warranties List</source>
+          <target>Lista garanzie articoli</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Control 3543129988 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the value of the Blocked field.</source>
+          <target>Specifica il valore del campo Bloccato.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Control 3543129988 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Method 3388793719 - NamedType 1433008748" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot Delete blocked Address</source>
+          <target>Impossibile eliminare un indirizzo bloccato</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2635570712 - Method 3530100688 - NamedType 667527765" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot Modify blocked Address</source>
+          <target>Impossibile modificare un indirizzo bloccato</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
